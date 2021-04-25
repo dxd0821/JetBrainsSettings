@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.sf-express.com" />
+          <option name="name" value="http://sonar.sf-express.com" />
+          <option name="login" value="80002483" />
+          <password>dfeedfd2dfcedf98df9adf9bdf93df9adf9adf9d</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
